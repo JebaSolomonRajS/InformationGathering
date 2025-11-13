@@ -118,9 +118,7 @@ sudo traceroute  www.google.com
 
 ## OUTPUT:
 
-![img](<image/sudo traceroute  wwwgooglecom.png>)
-
-## OUTPUT:
+![img](<image/sudo traceroute wwwgooglecom.png>)
 
 
 ## RESULT:
